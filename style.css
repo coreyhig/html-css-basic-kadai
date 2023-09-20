@@ -20,6 +20,6 @@ html {
 .text-color2{
   color: rgb(255, 192, 203)
 }
-#parent h2{
+#basic p {
   font-weight: bold;
 }
